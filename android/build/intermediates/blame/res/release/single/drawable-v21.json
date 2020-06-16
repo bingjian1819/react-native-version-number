@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/9d4984583416270629d7e2430c5d5a3d/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

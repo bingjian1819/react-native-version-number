@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/huaxin/Desktop/myProject/rn59/node_modules/react-native-version-number/android/build/intermediates/res/merged/release/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/huaxin/.gradle/caches/transforms-2/files-2.1/da5890bc0c25d4fca23eb9009d439522/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}
